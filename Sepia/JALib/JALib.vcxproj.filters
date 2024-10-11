@@ -15,7 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="cpp.hint" />
     <None Include="JAMasm.def">
       <Filter>Source Files</Filter>
     </None>
